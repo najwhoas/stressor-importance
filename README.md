@@ -1,6 +1,6 @@
 # Stressor Importance Analysis
 
-This project aims to find significant stressor in student's stress factors: physiological, psychological, and social factors using Random Forest techniques, build with gini-based RF Classifier. The data used in this project is sourced from student stress factors comprehensive survey, publicly provided on Kaggle.
+This project aims to find significant stressor in student's stress factors: physiological, psychological, environmental, academic, and social factors using Random Forest techniques, build with gini-based RF Classifier. The data used in this project is sourced from student stress factors comprehensive survey, publicly provided on Kaggle.
 
 ## Installation
 
